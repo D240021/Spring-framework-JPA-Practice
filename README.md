@@ -1,7 +1,8 @@
 <h1 align="center">Spring-framework-JPA-Practice</h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/69ed2f31-e80e-4fc8-80e6-00f7cd133e5f" alt="Springboot image">
+  <img src="https://miro.medium.com/v2/resize:fit:828/0*_GFC6xhNHDS0sxt0.png" alt="Springboot image">
 </div>
+
 
 
 <h2 align="center">Project description</h2>
@@ -9,8 +10,8 @@
 
 Key features include:
 
--Adding, updating, and deleting songs and singers.
--Assigning multiple singers to a song and vice versa.
--Fetching and displaying data using eager/lazy loading.
--Handling exceptions with custom exception classes.
+- Adding, updating, and deleting songs and singers.
+- Assigning multiple singers to a song and vice versa.
+- Fetching and displaying data using eager/lazy loading.
+- Handling exceptions with custom exception classes.
 This project is designed for practice with entity relationships, JPA annotations, and the integration of Spring services and repositories.</p>
