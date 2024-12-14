@@ -9,8 +9,8 @@
 
 Key features include:
 
-Adding, updating, and deleting songs and singers.
-Assigning multiple singers to a song and vice versa.
-Fetching and displaying data using eager/lazy loading.
-Handling exceptions with custom exception classes.
-This project is designed for practice with entity relationships, JPA annotations, and the integration of Spring services, repositories, and controlle</p>
+-Adding, updating, and deleting songs and singers.
+-Assigning multiple singers to a song and vice versa.
+-Fetching and displaying data using eager/lazy loading.
+-Handling exceptions with custom exception classes.
+This project is designed for practice with entity relationships, JPA annotations, and the integration of Spring services and repositories.</p>
